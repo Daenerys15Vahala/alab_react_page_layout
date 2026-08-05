@@ -4,7 +4,7 @@ function Profile(props) {
       <div className="profile_card">
         <img
           className={props.classname}
-          src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png"
+          src="https://cdn-icons-png.flaticon.com/512/149/149071.png"
         />
         <div>
           <h4>{props.employee}</h4>

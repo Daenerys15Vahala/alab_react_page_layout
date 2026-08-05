@@ -13,37 +13,37 @@ function App() {
           <input type="search" />
           <Profile
             classname={"inner_container1_img"}
-            employee={"Jane Doe"}
+            employee={"Paul Chapman"}
             role={"CEO"}
           />
 
           <Profile
             classname={"inner_container1_img"}
-            employee={"John Doe"}
+            employee={"Julianna Vaccaro"}
             role={"Engineer"}
           />
 
           <Profile
             classname={"inner_container1_img"}
-            employee={"Garry"}
-            role={"Janitor"}
+            employee={"Yazmin Ramirez"}
+            role={"Logistic Director"}
           />
 
           <Profile
             classname={"inner_container1_img"}
-            employee={"Jan Doe"}
+            employee={"Jazmin Hernandez"}
             role={"Manager"}
           />
 
           <Profile
             classname={"inner_container1_img"}
-            employee={"Lebron James"}
+            employee={"Valentina Bernal"}
             role={"CFO"}
           />
 
           <Profile
             classname={"inner_container1_img"}
-            employee={"Bob"}
+            employee={"Brittany Buchanan"}
             role={"COO"}
           />
         </div>
@@ -54,13 +54,13 @@ function App() {
           <div className="profile_info">
             <Profile
               classname={"inner_container2_img"}
-              employee={"Jane Doe"}
+              employee={"Paul Chapman"}
               role={"CEO"}
             />
             <Contact conTitle={"Call Office"} conNumber={"111-111-1111"} />
             <Contact conTitle={"Call Mobile"} conNumber={"211-211-2111"} />
             <Contact conTitle={"SMS"} conNumber={"311-311-3111"} />
-            <Contact conTitle={"Email"} conNumber={"janedoe@email.com"} />
+            <Contact conTitle={"Email"} conNumber={"paulchapman@email.com"} />
           </div>
         </div>
       </div>
